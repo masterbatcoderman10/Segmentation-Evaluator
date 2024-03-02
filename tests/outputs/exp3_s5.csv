@@ -1,0 +1,4 @@
+Model,background,cotton_wool_spots,hard_exudate,microaneurysm,retinal_hemorrhage,
+simple_vgg_unet,0.981,0.223,0.606,0.235,0.447,
+simple_resnet_unet,0.983,0.358,0.625,0.208,0.476,
+simple_efficientnet_unet,0.981,0.305,0.593,0.131,0.449,

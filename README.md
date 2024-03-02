@@ -61,3 +61,6 @@ eval_pipeline.stage_one(model_keys=['model1', 'model2'...], save_path='path/to/s
 ```python
 eval_pipeline.stage_two(model_keys=['model1', 'model2'...], save_path='path/to/save.json', csv_path='path/to/save.csv')
 ```
+
+## Example
+

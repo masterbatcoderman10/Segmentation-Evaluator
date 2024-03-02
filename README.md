@@ -64,3 +64,8 @@ eval_pipeline.stage_two(model_keys=['model1', 'model2'...], save_path='path/to/s
 
 ## Example
 
+A comprehensive usage example is coming soon.
+
+However, in the `tests/outputs` directory, there are example outputs from the pipeline. These outputs were generated for a multi-class image segmentation on Diabetes Retinopathy dataset. 
+
+More details on this project are available [in this repository](!https://github.com/masterbatcoderman10/DR_Segmentation_Analysis).
